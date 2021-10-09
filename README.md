@@ -25,7 +25,7 @@ Contribute
 ----------
 
 - Issue Tracker: https://github.com/seshaljain/josaa-scrape/issues
-- Source Code: https://github.com/gauravk268/josaa-scrape
+- Source Code: https://github.com/seshaljain/josaa-scrape
 
 License
 -------
