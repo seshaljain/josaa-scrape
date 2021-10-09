@@ -8,7 +8,7 @@ Features
 --------
 
 - Save data from JOSAA website in CSV form
-- Find college
+- Shortlist colleges based on rank in JEE Mains/Advance
 - Apply filter category / gender / (home/other) state / closing rank range
  
 How to use
