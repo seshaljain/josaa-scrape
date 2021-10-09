@@ -24,8 +24,8 @@ How to use
 Contribute
 ----------
 
-- Issue Tracker: https://github.com/seshaljain/josaa-scrape/issues
-- Source Code: https://github.com/seshaljain/josaa-scrape
+- Issue Tracker: [https://github.com/seshaljain/josaa-scrape/issues](https://github.com/seshaljain/josaa-scrape/issues)
+- Source Code: [https://github.com/seshaljain/josaa-scrape](https://github.com/seshaljain/josaa-scrape)
 
 License
 -------
