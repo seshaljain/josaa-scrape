@@ -17,6 +17,8 @@ How to use
 ```
     git clone "[repo link here]"
     cd josaa-scrape
+    
+    git checkout notebook ( moved notebook to different branch )
     # open your desired notebook as per your requirement
     # follow the instructions/comments in the notebook
 ```
